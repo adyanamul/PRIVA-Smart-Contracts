@@ -1,5 +1,7 @@
 pragma solidity ^0.8.2;
 
+// DI BUAT OLEH ADE MULYANA
+
 contract Token {
     mapping(address => uint) public balances;
     mapping(address => mapping(address => uint)) public allowance;
