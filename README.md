@@ -41,7 +41,6 @@ PRIVA acknowledges the contributions of various individuals, organizations, and 
 - **Community Contributors:** Last but not least, we express our appreciation to all community members who have contributed code, reported issues, provided feedback, or supported PRIVA in any way. Your involvement is instrumental in the success of PRIVA as a community-driven project.
 
 ## Minimal Proxy Contract for TokenERC20 (0x21bdba30afc2b8205e8a173626346868077572fb)
-## ipfs://6edbc5852c519d85a2d7226545c3cf93bb5979b5b57c0d5ddae53b928e726144
 
 ### Read Contract as Proxy
 - **Contract Name:** TokenERC20
