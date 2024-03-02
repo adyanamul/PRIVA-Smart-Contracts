@@ -49,8 +49,11 @@ PRIVA acknowledges the contributions of various individuals, organizations, and 
 - **Other Settings:** London EvmVersion
 
 ## Token Contract Information
+- **Token Name:** PRIVA
+- **Symbol:** PVA
 - **Contract Address:** 0xee9d551164c87dAf03259FE2e375a9a0B22c7494
 - **Decimals:** 18
+- **Chain:** Polygon
 
 # Appendix
 
